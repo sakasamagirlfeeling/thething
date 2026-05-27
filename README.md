@@ -6,4 +6,5 @@
   <a href="https://katsu104.straw.page">main strawpage</a> | <a href="https://pronouns.cc/@katsu104">pronouns.cc</a> | <a href="https://en.pronouns.page/@katsu104">pronouns page</a>
 
 <br>
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kv1htbu7y6jw9192j8jzjopxg&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=0afffb&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
